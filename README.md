@@ -1,6 +1,6 @@
 ## Get the image description from GEMINI AI: Google's largest and most capable AI model
 
-![G](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/final_keyword_header.width-1200.format-webp.webp)
+![Gemini](images/gemini.png)
 
 ## Introduction
 
