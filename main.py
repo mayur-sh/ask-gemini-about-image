@@ -50,7 +50,7 @@ with st.sidebar:
     </style>
 
     <div class="side-bar">
-        <a href="https://www.linkedin.com/in/snehal-kapadi-0b4a7316a">
+        <a href="https://www.linkedin.com/in/mayur-sh">
         <img src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" alt="Linkedin" width="100px" class="icon">
         </a>
     </div>
