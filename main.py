@@ -65,7 +65,7 @@ st.markdown("""
 st.header("", divider='rainbow')
 
 st.markdown("""
-    <p style="text-align:right;">~ By Snehal Kapadi</p>
+    <p style="text-align:right;">~ By Mayur's Bayko</p>
 """, unsafe_allow_html=True)
 
 
